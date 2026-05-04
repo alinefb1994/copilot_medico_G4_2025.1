@@ -3,7 +3,7 @@
 **Histórico de Versões**
 
 - 14/06/2025 - Documento correspondente à versão 2.0 do CoPilot - Fábio, Nielso Júnior, João Júnior
-
+- 04/05/2026 - Ajustes na documentação conforme novas features a serem incluídas no projeto pela turma 2026.1
 ---
 
 # 1. Visão Geral do Produto
